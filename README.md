@@ -6,4 +6,4 @@
 
 ## Now Playing on Spotify 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qhfev7zij7yn23jk6vjz7w5n2m&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qhfev7zij7yn23jk6vjz7w5n2m&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qhfev7zij7yn23jk6vjz7w5n2m&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qhfev7zij7yn23jk6vjz7w5n2m&redirect=true)
